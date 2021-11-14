@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello There! 👋
+### I am a fluent programmer in Python and HTML
+### Learning Java, CSS, JavaScript, and C#
+### Minecraft Datapack developer now because why not.
 
 <!--
 **airplaneboy14mc/airplaneboy14mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
