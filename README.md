@@ -2,6 +2,7 @@
 ### I am a fluent programmer in Python and HTML
 ### Learning Java, CSS, JavaScript, and C#
 ### Minecraft Datapack developer now because why not.
+### [![Airplaneboy14's GitHub stats](https://github-readme-stats.vercel.app/api?username=airplaneboy14mc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **airplaneboy14mc/airplaneboy14mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
