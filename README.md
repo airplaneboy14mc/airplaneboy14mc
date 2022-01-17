@@ -3,10 +3,10 @@
 ### Learning Java, CSS, JavaScript, and C#
 ### Minecraft Datapack developer now because why not.
 ### [![Airplaneboy14's GitHub stats](https://github-readme-stats.vercel.app/api?username=airplaneboy14mc)](https://github.com/anuraghazra/github-readme-stats)
-### [HMM](https://raw.githubusercontent.com/airplaneboy14mc/airplaneboy14mc/Main/hmm.jpg)
-
-
-
+### [![HMM](https://raw.githubusercontent.com/airplaneboy14mc/airplaneboy14mc/Main/hmm.jpg)
+/n
+/n
+/n
 ### How to make your dad disappear in minecraft:
 ### 1) Run this command:
 ### "/give @p book{display:{Name:'{"text":"Dad","color":"gold","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}',Lore:['{"text":"Getting the milk","color":"light_purple","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}']},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s}]} 1"
