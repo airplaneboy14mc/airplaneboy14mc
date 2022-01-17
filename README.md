@@ -3,7 +3,7 @@
 ### Learning Java, CSS, JavaScript, and C#
 ### Minecraft Datapack developer now because why not.
 ### [![Airplaneboy14's GitHub stats](https://github-readme-stats.vercel.app/api?username=airplaneboy14mc)](https://github.com/anuraghazra/github-readme-stats)
-### [![HMM](https://raw.githubusercontent.com/airplaneboy14mc/airplaneboy14mc/Main/hmm.jpg)
+### [HMM](https://raw.githubusercontent.com/airplaneboy14mc/airplaneboy14mc/Main/hmm.jpg)
 
 
 
