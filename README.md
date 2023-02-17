@@ -1,6 +1,6 @@
 ### Hello There! 👋
 ### I am a fluent programmer in Python and HTML
-### Learning Java, CSS, JavaScript, and C#
+### Learning Java, CSS, JavaScript
 ### Retired Minecraft Datapack developer now.
 
 ### [![Airplaneboy14's GitHub stats](https://github-readme-stats.vercel.app/api?username=airplaneboy14mc)](https://github.com/anuraghazra/github-readme-stats)
